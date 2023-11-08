@@ -1,2 +1,2 @@
 # Kasirku
-Program Kasir simple menggunakan Java
+SC Program Kasir simple menggunakan Java
